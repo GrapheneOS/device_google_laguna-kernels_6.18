@@ -1,0 +1,2 @@
+# usbmon will be loaded on demand for debug purpose only
+blocklist usbmon.ko
