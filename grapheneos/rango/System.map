@@ -80069,11 +80069,11 @@ ffff800081a083a5 d task_index_to_char.state_char
 ffff800081a083a5 d task_index_to_char.state_char
 ffff800081a083a5 d task_index_to_char.state_char
 ffff800081a083a5 d task_index_to_char.state_char
-ffff800081a2bb85 d max_tt_usecs
-ffff800081a537b4 d f_midi_longname
-ffff800081aa8e3b d trunc_msg
-ffff800081aad122 d pty_line_name.ptychar
-ffff800081ac46fe d longname
+ffff800081a2bbaa d max_tt_usecs
+ffff800081a537d9 d f_midi_longname
+ffff800081aa8ece d trunc_msg
+ffff800081aad1b5 d pty_line_name.ptychar
+ffff800081ac4756 d longname
 ffff800081aee1a8 d scx_dump_state.trunc_marker
 ffff800081b0a3e8 V __llvm_fs_discriminator__
 ffff800081b0a3f1 d rh_string.langids
