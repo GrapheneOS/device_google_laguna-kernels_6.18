@@ -1,6 +1,7 @@
 kernel/kernel/kheaders.ko
 kernel/mm/zsmalloc.ko
 kernel/fs/netfs/netfs.ko
+kernel/lib/crc/crc-ccitt.ko
 kernel/lib/crypto/libarc4.ko
 kernel/drivers/virtio/virtio_pci_modern_dev.ko
 kernel/drivers/virtio/virtio_pci_legacy_dev.ko
